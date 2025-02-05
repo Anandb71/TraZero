@@ -1,2 +1,2 @@
 first protype based on flutter and firebase
-second one based on python and Django
+second one based on python and virtual
